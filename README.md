@@ -1,4 +1,4 @@
-# GestFin - Sistema de gestão financeira (Laravel 6.X)
+# GestFin - Sistema de gestão financeira (Laravel 6.X - PHP ^7.2)
 
 ![alt test](screenshots/1.png)
 
